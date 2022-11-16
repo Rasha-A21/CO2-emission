@@ -1,5 +1,5 @@
 # Hi, I'm Rasha 
-##### Data Analyst
+## Data Analyst
 
 # Project 1: CO2 emission around the world 
 ![shutterstock_772541140.webp](https://geographical.co.uk/wp-content/uploads/carbon-dioxide-emissions-title.jpg)
